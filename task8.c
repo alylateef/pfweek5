@@ -43,6 +43,8 @@ int main() {
 			else{
 				bill=(amount*s_a);
 			}
+			printf("enter your coffee type (1.Regular, 2.Cappuccino, 3.Latte).");
+			
 			printf("your total bill is : %d ",bill);
 		}
 	}
